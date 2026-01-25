@@ -858,11 +858,11 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   activeInputHandler: 0
   windowsGamepadBackendHint: 0
-  cloudProjectId: 81771219-e43c-4d96-ad6e-86f137820540
+  cloudProjectId: 40c4b30e-55e3-4e95-a23a-4a6e00df899a
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
   projectName: GunGame
-  organizationId: vinne38
+  organizationId: sleepycoderx2
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
   hmiLoadingImage: {fileID: 0}
